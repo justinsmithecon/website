@@ -14,12 +14,12 @@ design:
   columns: '2'
 ---
 
-Fall 2022:  
+**Fall 2022:**  
 
-    EC295 - Introductory Econometrics  
-    EC655 - Econometrics  
+-EC295 - Introductory Econometrics  
+-EC655 - Econometrics  
 
-Winter 2023:  
+**Winter 2023:**  
 
-    EC481 - Economics Paper and Seminar
+-EC481 - Economics Paper and Seminar
 
